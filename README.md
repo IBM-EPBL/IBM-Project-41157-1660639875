@@ -17,7 +17,6 @@ using data science, patient length of stay is one critical parameter to observe 
  The goal is to accurately predict the Length of Stay for each patient on case by case basis so that the Hospitals can use this information for optimal resource allocation and better functioning. The length of stay is divided into 11 different classes ranging from 0-10 days to more than 100 days.
 👩‍💻TECHNICAL ARCHITECTURE:
 ![image](https://user-images.githubusercontent.com/102052455/202635788-246f333e-c480-4308-9f90-f50d8a52b45f.png)
-
  
  
  
